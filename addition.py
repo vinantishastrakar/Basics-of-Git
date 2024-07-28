@@ -1,4 +1,5 @@
 a = 7
 b = 4
-res = a + b
+c = 9
+res = a + b + c
 print(res)
