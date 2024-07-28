@@ -1,4 +1,7 @@
-My first git project.
+# My first git project.
 
 I am very delighted.
-I hate prgramming.
+## I hate programming.
+- I am preparing for my exams.
+- I am here because of practising.
++ Created git repo.
